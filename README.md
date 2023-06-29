@@ -1,5 +1,7 @@
 # Data and code for: Towards a computational history of modernism in European literary history: Mapping the Inner Lives of Characters in the European Novel, 1840-1920
 
+[![DOI](https://zenodo.org/badge/660108194.svg)](https://zenodo.org/badge/latestdoi/660108194)
+
 This folder contains the results from our experiments on "measuring modernism through innerlife" in several european literatures. 
 
 see (link to paper)
