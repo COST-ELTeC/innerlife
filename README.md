@@ -6,7 +6,12 @@ see (link to paper)
 
 ## Organization
 
-This repository contains several main folders for lists of inner life verbs for various languages (0_verbs), data regarding verb frequency statistics in novels (1_data), scripts written in XSLT, Perl and Python for generating, analysing and visualizing the data (2_scripts) and results visualized in various forms. 
+This repository contains the following main folders:
+
+- lists of inner life verbs for various languages (`0_verbs`)
+- data regarding verb frequency statistics in novels (`1_data`)
+- scripts written in XSLT, Perl and Python for generating, analysing and visualizing the data (`2_scripts`)
+- results visualized in various forms (`3_results`). 
 
 Each of the main folders is further separated into various kinds of aspects of our analysis. Finally, each data or results folder contains one folder for each language or dataset. 
 
