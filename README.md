@@ -10,7 +10,7 @@ see (link to paper)
 
 All raw data in the repository is made available with a [Creative Commons Zero (CC0)](https://creativecommons.org/share-your-work/public-domain/cc0/) licence. 
 
-All figures in the repository are made available with a [Creative Commons Attribution 4.0 International CC BY)](https://creativecommons.org/licenses/by/4.0/%0A) licence. 
+All figures and code in the repository are made available with a [Creative Commons Attribution 4.0 International CC BY)](https://creativecommons.org/licenses/by/4.0/%0A) licence. 
 
 Please use the citation suggestion below, or cite the paper linked to above, if you use the data or figures in your research.  
 
