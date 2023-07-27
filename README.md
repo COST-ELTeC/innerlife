@@ -22,16 +22,16 @@ Tamara Radak et al.: "Data and code for: Towards a computational history of mode
 
 The following is a list of repositories that were used as data sources for the experiments conducted in the present project. They are all repositories that fall under the umbrella of the '[European Literary Text Collection' (ELTeC)](https://github.com/COST-ELTeC/ELTeC), DOI: [10.5281/zenodo.4271467](https://doi.org/10.5281/zenodo.4271467). 
 
-- ELTeC-deu: [COST-ELTeC/ELTeC-deu](https://github.com/COST-ELTeC/ELTeC-deu), DOI: [10.5281/zenodo.3543243](https://doi.org/10.5281/zenodo.3543243) 
-- ELTeC-eng: [COST-ELTeC/ELTeC-eng](https://github.com/COST-ELTeC/ELTeC-eng), DOI: [10.5281/zenodo.3462536](https://doi.org/10.5281/zenodo.3462536) 
-- ELTeC-fra: [COST-ELTeC/ELTeC-fra](https://github.com/COST-ELTeC/ELTeC-fra), DOI: [10.5281/zenodo.3462535](https://doi.org/10.5281/zenodo.3462535) 
-- ELTeC-hun: [COST-ELTeC/ELTeC-hun](https://github.com/COST-ELTeC/ELTeC-hun), DOI: [10.5281/zenodo.42716375](https://doi.org/10.5281/zenodo.42716375) 
-- ELTeC-nor: [COST-ELTeC/ELTeC-nor](https://github.com/COST-ELTeC/ELTeC-nor), DOI: [10.5281/zenodo.3521571](https://doi.org/10.5281/zenodo.3521571) 
-- ELTeC-pol: [COST-ELTeC/ELTeC-pol](https://github.com/COST-ELTeC/ELTeC-pol), DOI: [10.5281/zenodo.4662596](https://doi.org/10.5281/zenodo.4662596) 
-- ELTeC-por: [COST-ELTeC/ELTeC-por](https://github.com/COST-ELTeC/ELTeC-por), DOI: [10.5281/zenodo.3492067](https://doi.org/10.5281/zenodo.3492067) 
-- ELTeC-rom: [COST-ELTeC/ELTeC-rom](https://github.com/COST-ELTeC/ELTeC-rom), DOI: [10.5281/zenodo.3543111](https://doi.org/10.5281/zenodo.3543111) 
-- ELTeC-slv: [COST-ELTeC/ELTeC-slv](https://github.com/COST-ELTeC/ELTeC-slv), DOI: [10.5281/zenodo.3518108](https://doi.org/10.5281/zenodo.3518108) 
-- ELTeC-spa: [COST-ELTeC/ELTeC-spa](https://github.com/COST-ELTeC/ELTeC-spa), DOI: [10.5281/zenodo.3662758](https://doi.org/10.5281/zenodo.3662758) 
+- [ELTeC-deu](https://github.com/COST-ELTeC/ELTeC-deu), DOI: [10.5281/zenodo.3543243](https://doi.org/10.5281/zenodo.3543243) 
+- [ELTeC-eng](https://github.com/COST-ELTeC/ELTeC-eng), DOI: [10.5281/zenodo.3462536](https://doi.org/10.5281/zenodo.3462536) 
+- [ELTeC-fra](https://github.com/COST-ELTeC/ELTeC-fra), DOI: [10.5281/zenodo.3462535](https://doi.org/10.5281/zenodo.3462535) 
+- [ELTeC-hun](https://github.com/COST-ELTeC/ELTeC-hun), DOI: [10.5281/zenodo.42716375](https://doi.org/10.5281/zenodo.42716375) 
+- [ELTeC-nor](https://github.com/COST-ELTeC/ELTeC-nor), DOI: [10.5281/zenodo.3521571](https://doi.org/10.5281/zenodo.3521571) 
+- [ELTeC-pol](https://github.com/COST-ELTeC/ELTeC-pol), DOI: [10.5281/zenodo.4662596](https://doi.org/10.5281/zenodo.4662596) 
+- [ELTeC-por](https://github.com/COST-ELTeC/ELTeC-por), DOI: [10.5281/zenodo.3492067](https://doi.org/10.5281/zenodo.3492067) 
+- [ELTeC-rom](https://github.com/COST-ELTeC/ELTeC-rom), DOI: [10.5281/zenodo.3543111](https://doi.org/10.5281/zenodo.3543111) 
+- [ELTeC-slv](https://github.com/COST-ELTeC/ELTeC-slv), DOI: [10.5281/zenodo.3518108](https://doi.org/10.5281/zenodo.3518108) 
+- [ELTeC-spa](https://github.com/COST-ELTeC/ELTeC-spa), DOI: [10.5281/zenodo.3662758](https://doi.org/10.5281/zenodo.3662758) 
 
 
 ## Organization
