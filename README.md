@@ -2,9 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/660108194.svg)](https://zenodo.org/badge/latestdoi/660108194)
 
-This folder contains the results from our experiments on "measuring modernism through innerlife" in several european literatures. 
-
-see (link to paper)
+This folder contains data, code and results described in the following paper: Tamara Radak, Lou Burnard, Pieter Francois, Agnes Hilger, Fotis Jannidis, Gábor Palkó, Roxana Patras, Michael Preminger, Diana Santos, Christof Schöch (2023): "Towards a computational history of modernism in European literary history: Mapping the Inner Lives of Characters in the European Novel (1840–1920)", _Open Research Europe: Digital Humanities_, DOI: https://doi.org/10.12688/openreseurope.16290.1. 
 
 ## Licence 
 
